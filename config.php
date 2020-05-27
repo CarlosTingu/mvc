@@ -1,7 +1,7 @@
 <?php
 require './environment.php';
 
-define('BASE_URL', 'http://localhost/new_struct');
+define('BASE_URL', 'http://localhost/mvc');
 
 global $config;
 
