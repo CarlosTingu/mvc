@@ -8,7 +8,7 @@ Entre na pasta database e execute o script sql, depois e so voce criar novos con
 
 Para voce passar parametros por GET e so adicionar paramentros dentro dos metodos dos controllers.
 
-EXEMPLO: http://localhost/new_struct/home/index/paramentro1/parametro2
+EXEMPLO: http://localhost/mvc/home/index/paramentro1/parametro2
 
 Posso enviar quantos parametros eu quiser, dentro do limite da URL de 2.048 caracteries.
 
